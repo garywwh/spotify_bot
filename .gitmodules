@@ -1,0 +1,14 @@
+[submodule "spotify_mcp_server"]
+	path = spotify_mcp_server
+	url = https://github.com/garywwh/spotify_mcp_server.git
+	branch = main
+
+[submodule "spotify_llm_controller"]
+	path = spotify_llm_controller
+	url = https://github.com/garywwh/spotify_llm_controller.git
+	branch = main
+
+[submodule "spotify_telegram_bot"]
+	path = spotify_telegram_bot
+	url = https://github.com/garywwh/spotify_telegram_bot.git
+	branch = main
